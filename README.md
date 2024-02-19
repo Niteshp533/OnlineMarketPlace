@@ -1,7 +1,7 @@
 # OnlineMarketPlace
 
 ## Description
-This is an online marketplace project inspired by platforms like OLX. It allows users to buy and sell various items within different categories. The project is built using Python and Django for the backend, and Tailwind CSS for the frontend.
+This is an onlineMarketplace project (ByteBazaar) inspired by platforms like OLX. It allows users to buy and sell various items within different categories. The project is built using Python and Django for the backend, and Tailwind CSS for the frontend.
 
 <img src="./preview.jpg" width = "100%">
 
