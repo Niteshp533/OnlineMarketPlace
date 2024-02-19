@@ -3,7 +3,8 @@
 ## Description
 This is an online marketplace project inspired by platforms like OLX. It allows users to buy and sell various items within different categories. The project is built using Python and Django for the backend, and Tailwind CSS for the frontend.
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Vj40WBJcQYglBB0MBCOhKuDVUJhsjzu5aQ&usqp=CAU" />
+<img src="./preview.jpg" width = "100%">
+
 
 ## Features
 - User authentication and authorization
